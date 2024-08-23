@@ -1,0 +1,42 @@
+.avalia_item {
+  display: flex;
+  width: 1200px;
+  padding: 0px 100px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  color: #fff;
+  font-family: "Krona One";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+p {
+  color: #fff;
+  font-family: "Krona One";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.images {
+  /* width: 433px; */
+  /* height: 507px; */
+  flex-shrink: 0;
+}
+.image {
+}
+
+.logos {
+  display: flex;
+  width: 1200px;
+  padding: 0px 100px;
+  align-items: center;
+  gap: 6px;
+}
